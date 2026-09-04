@@ -47,7 +47,7 @@ import aiohttp
 # ─────────────────────────────────────────────────────────────────
 #  ⚙️  SOZLAMALAR  —  faqat shu qismni o'zgartiring
 # ─────────────────────────────────────────────────────────────────
-BOT_TOKEN        = "8506680790:AAHCBLzg41yR7XUx_r8jBrcPt9OY7c9TyYs"
+BOT_TOKEN        = "8853810127:AAHw26Q70UWt4_uIPW-OzzF03R3jmYAkyBw"
 SUPABASE_URL     = "https://dswpheeugtozosdaguym.supabase.co/rest/v1/versions"
 SUPABASE_KEY     = (
     "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
